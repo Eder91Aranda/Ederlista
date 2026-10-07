@@ -1,0 +1,270 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg" group-title="DEPORTES", ESPN 3 CHILE
+http://planettvweb.com:8091/chdzno/tg44TT23/11917
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE", MEGA SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11614
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CHV
+http://planettvweb.com:8091/chdzno/tg44TT23/14272
+
+#EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/11/file_20181121105614.jpg" group-title="CHILE", TV+ SD
+http://planettvweb.com:8091/chdzno/tg44TT23/12002
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUlkYqUeizYpDegi63lfEWAVSKc.jpg" group-title="SERIE DE DOCUMENTALES", Colonia Dignidad: Una secta alemana en Chile S01 E01
+http://planettvweb.com:8091/series/chdzno/tg44TT23/114482.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1i3eKVHXjZ0UsN8AwABoLvCP7tL.jpg" group-title="SERIE DE DOCUMENTALES", Colonia Dignidad: Una secta alemana en Chile S01 E02
+http://planettvweb.com:8091/series/chdzno/tg44TT23/114483.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRnJ2vYoHz4RyQx9pzi1FlBUj5K.jpg" group-title="SERIE DE DOCUMENTALES", Colonia Dignidad: Una secta alemana en Chile S01 E03
+http://planettvweb.com:8091/series/chdzno/tg44TT23/114484.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AroPl33bKVSQSI9FN9o4tJKQY4E.jpg" group-title="SERIE DE DOCUMENTALES", Colonia Dignidad: Una secta alemana en Chile S01 E04
+http://planettvweb.com:8091/series/chdzno/tg44TT23/114485.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6hFzpxCkEqX6wAa8VRYGOnZZyd.jpg" group-title="SERIE DE DOCUMENTALES", Colonia Dignidad: Una secta alemana en Chile S01 E05
+http://planettvweb.com:8091/series/chdzno/tg44TT23/114486.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ercG0E8oSGrcYeXsZDN1Y3fCg6H.jpg" group-title="SERIE DE DOCUMENTALES", Colonia Dignidad: Una secta alemana en Chile S01 E06
+http://planettvweb.com:8091/series/chdzno/tg44TT23/114487.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://inevent.com/es/images/clients/globo.png" group-title="BRASIL", GLOBO SP HD
+http://planettvweb.com:8091/chdzno/tg44TT23/12413
+
+#EXTINF:-1 tvg-logo="https://inevent.com/es/images/clients/globo.png" group-title="BRASIL", GLOBO RJ HD
+http://planettvweb.com:8091/chdzno/tg44TT23/12416
+
+#EXTINF:-1 tvg-logo="https://iili.io/BiW8C22.png" group-title="BRASIL", GLOBO RBS TV PORTO ALEGRE HD
+http://planettvweb.com:8091/chdzno/tg44TT23/23399
+
+#EXTINF:-1 tvg-logo="http://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png" group-title="BRASIL", RECORD HD SP
+http://planettvweb.com:8091/chdzno/tg44TT23/12432
+
+#EXTINF:-1 tvg-logo="http://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png" group-title="BRASIL", RECORD HD RJ
+http://planettvweb.com:8091/chdzno/tg44TT23/12427
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Record-news.jpg/revision/latest?cb=20120916104700" group-title="BRASIL", RECORDS NEWS
+http://planettvweb.com:8091/chdzno/tg44TT23/12435
+
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/sbt-logo.png" group-title="BRASIL", SBT HD
+http://planettvweb.com:8091/chdzno/tg44TT23/12425
+
+#EXTINF:-1 tvg-logo="https://iili.io/JjCXBqX.png" group-title="BRASIL", REDETV
+http://planettvweb.com:8091/chdzno/tg44TT23/12511
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_da_Rede_Bandeirantes.PNG" group-title="BRASIL", BAND RS
+http://planettvweb.com:8091/chdzno/tg44TT23/142099
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="BRASIL", GLOBO NEWS
+http://planettvweb.com:8091/chdzno/tg44TT23/12428
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="BRASIL", BAND NEWS
+http://planettvweb.com:8091/chdzno/tg44TT23/12431
+
+#EXTINF:-1 tvg-logo="https://iili.io/dHVZYAX.png" group-title="BRASIL", GNT HD
+http://planettvweb.com:8091/chdzno/tg44TT23/24793
+
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="BRASIL", VIVA HD
+http://planettvweb.com:8091/chdzno/tg44TT23/17721
+
+#EXTINF:-1 tvg-logo="https://iili.io/dHVZcts.png" group-title="BRASIL", MULTISHOW
+http://planettvweb.com:8091/chdzno/tg44TT23/22752
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/188px-A%26E_Network_logo.svg.png" group-title="BRASIL", A&E HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88187
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/480px-Discovery_Civilization_logo.svg.png" group-title="BRASIL", DISCOVERY CIVILIZACION HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88190
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png" group-title="BRASIL", DISCOVERY CHANNEL H&H HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88191
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/917/937/png-transparent-discovery-science-discovery-channel-television-channel-civilization-network-television-text-logo.png" group-title="BRASIL", DISCOVERY SCIENCE HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88192
+
+#EXTINF:-1 tvg-logo="https://iili.io/BZNrkbI.png" group-title="BRASIL", DISCOVERY TURBO HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88193
+
+#EXTINF:-1 tvg-logo="https://iili.io/BZNreON.png" group-title="BRASIL", DISCOVERY WORLD HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88194
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="BRASIL", Star Channel HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88195
+
+#EXTINF:-1 tvg-logo="https://iili.io/BmkhUUg.png" group-title="BRASIL", HBO FAMILY HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88197
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="BRASIL", SONY HD_BR
+http://planettvweb.com:8091/chdzno/tg44TT23/88201
+
+#EXTINF:-1 tvg-logo="https://iili.io/JGsI5Ft.png" group-title="BRASIL", AMAZON PRIME JOGO 3
+http://planettvweb.com:8091/chdzno/tg44TT23/149601
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL", PREMIERE CLUBES 24 hr
+http://planettvweb.com:8091/chdzno/tg44TT23/12494
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL", PREMIERE 2
+http://planettvweb.com:8091/chdzno/tg44TT23/12489
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL", PREMIERE 3
+http://planettvweb.com:8091/chdzno/tg44TT23/12490
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL", PREMIERE 4
+http://planettvweb.com:8091/chdzno/tg44TT23/12491
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-2.png" group-title="BRASIL", PREMIERE 5
+http://planettvweb.com:8091/chdzno/tg44TT23/12492
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="BRASIL", PREMIERE 6
+http://planettvweb.com:8091/chdzno/tg44TT23/14347
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="BRASIL", PREMIERE 7
+http://planettvweb.com:8091/chdzno/tg44TT23/14348
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="BRASIL", ESPN BRASIL
+http://planettvweb.com:8091/chdzno/tg44TT23/12509
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMfjsBj.png" group-title="BRASIL", ESPN 2
+http://planettvweb.com:8091/chdzno/tg44TT23/16881
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMfj6hu.png" group-title="BRASIL", Espn 3
+http://planettvweb.com:8091/chdzno/tg44TT23/34856
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="BRASIL", FOX SPORTS BR
+http://planettvweb.com:8091/chdzno/tg44TT23/12515
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="BRASIL", SPORT TV2
+http://planettvweb.com:8091/chdzno/tg44TT23/12434
+
+#EXTINF:-1 tvg-logo="http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1856&pfdrid_c=true" group-title="BRASIL", SPORT TV 3
+http://planettvweb.com:8091/chdzno/tg44TT23/14182
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/Logos_telecine_action_2.jpg/revision/latest?cb=20141222204644" group-title="BRASIL", TELECINE ACTION
+http://planettvweb.com:8091/chdzno/tg44TT23/12483
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="BRASIL", TELECINE CULT
+http://planettvweb.com:8091/chdzno/tg44TT23/12484
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdlrr5oLMGjNXMiUUYVuPhT04H.jpg" group-title="CINE ARGENTINO/URUGUAYO", Made in Argentina (1987)
+http://planettvweb.com:8091/movie/chdzno/tg44TT23/91353.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="PELICULAS DE DRAMA", Argentina, 1985 (2022)
+http://planettvweb.com:8091/movie/chdzno/tg44TT23/121414.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="CINE ARGENTINO/URUGUAYO", Argentina, 1985 (2022)
+http://planettvweb.com:8091/movie/chdzno/tg44TT23/76819.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqcn7wiExfUBDT0L5xMCOngepn5.jpg" group-title="CONCIERTOS", Roger Waters Live In Argentina (Ing-2023)
+http://planettvweb.com:8091/movie/chdzno/tg44TT23/137969.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11866
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA
+http://planettvweb.com:8091/chdzno/tg44TT23/28071
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE INTERNACIONAL SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11858
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE SD 1
+http://planettvweb.com:8091/chdzno/tg44TT23/11840
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA", TV PUBLICA SD
+http://planettvweb.com:8091/chdzno/tg44TT23/14415
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N
+http://planettvweb.com:8091/chdzno/tg44TT23/11863
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11859
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11839
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA", LN+ SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11878
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11862
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", Canal 13 Internacional
+http://planettvweb.com:8091/chdzno/tg44TT23/12443
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA", A 24 SD
+http://planettvweb.com:8091/chdzno/tg44TT23/11865
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" group-title="ARGENTINA", ARGENTINISIMA
+http://planettvweb.com:8091/chdzno/tg44TT23/11864
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11902
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11904
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11899
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11901
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA", CRONICA TV HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11894
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA", CANAL 26 HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11900
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE HD
+http://planettvweb.com:8091/chdzno/tg44TT23/11879
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN SUR
+http://planettvweb.com:8091/chdzno/tg44TT23/20324
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 SUR_
+http://planettvweb.com:8091/chdzno/tg44TT23/20325
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 SUR
+http://planettvweb.com:8091/chdzno/tg44TT23/20326
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD", ESPN 4 HD
+http://planettvweb.com:8091/chdzno/tg44TT23/21457
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN ARG HD
+http://planettvweb.com:8091/chdzno/tg44TT23/12755
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 HD ARG
+http://planettvweb.com:8091/chdzno/tg44TT23/11996
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 HD ARG
+http://planettvweb.com:8091/chdzno/tg44TT23/11915
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUM ARG
+http://planettvweb.com:8091/chdzno/tg44TT23/14637
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS HD SUR
+http://planettvweb.com:8091/chdzno/tg44TT23/11702
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/chdzno/tg44TT23/20328
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 3 SUR HD
+http://planettvweb.com:8091/chdzno/tg44TT23/20329
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS 2
+http://planettvweb.com:8091/chdzno/tg44TT23/20327
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/chdzno/tg44TT23/16278
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUN
+http://planettvweb.com:8091/chdzno/tg44TT23/16453
+
